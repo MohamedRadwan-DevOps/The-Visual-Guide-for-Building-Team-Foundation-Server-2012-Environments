@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFS2012", "TFS2012\TFS2012.csproj", "{F7FBDEB1-08CF-4B7A-9156-D53B19BB8C86}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccLocalPath0 = .
+		SccLocalPath1 = TFS2012
+		SccNumberOfProjects = 2
+		SccProjectName1 = TFS2012
+		SccProjectUniqueName1 = TFS2012\\TFS2012.csproj
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs35
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7FBDEB1-08CF-4B7A-9156-D53B19BB8C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FBDEB1-08CF-4B7A-9156-D53B19BB8C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FBDEB1-08CF-4B7A-9156-D53B19BB8C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FBDEB1-08CF-4B7A-9156-D53B19BB8C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
