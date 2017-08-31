@@ -1,7 +1,7 @@
 # The Visual Guide for Building Team Foundation Server 2012 Environments
 <div class="wikidoc">Welcome to "<strong>The Visual Guide for Building Team Foundation Server 2012 Environments", </strong>&nbsp;the first publication ever by&nbsp;<a title="MEA ALM Community" href="http://www.meaalmcommunity.com" target="_blank" rel="noopener"><strong>Middle East &amp; Africa ALM Community</strong></a>.</div>
 <p>&nbsp;</p>
-<div class="wikidoc"><strong><a title="MEA ALM Community" href="#" target="_blank" rel="noopener">MEA ALM Community</a></strong> is an independent &amp; non -profit community, dedicated to supporting and educating Microsoft Application Lifecycle Management tools and technologies. The key mission of our community is to provide a strong and vibrant community for the different roles involved in software development and delivery to enable them build better software!</div>
+<div class="wikidoc"><strong><a title="MEA ALM Community" href="#MEAALM" target="_blank" rel="noopener">MEA ALM Community</a></strong> is an independent &amp; non -profit community, dedicated to supporting and educating Microsoft Application Lifecycle Management tools and technologies. The key mission of our community is to provide a strong and vibrant community for the different roles involved in software development and delivery to enable them build better software!</div>
 <div class="wikidoc">
 <p>&nbsp;</p>
 </div>
@@ -111,9 +111,9 @@ This Guide comes with 38 videos that explain all scenarios in a step-by-step man
 <ul>
 <li>Please use the Discussions page to post your feedback and suggestions.</li>
 </ul>
-<h3>MEA ALM Community</h3>
+<h3 id="MEAALM">MEA ALM Community</h3>
 <ul>
-<li><a href="#" target="_blank" rel="noopener">Website </a></li>
+<li><a href="#MEAALM" target="_blank" rel="noopener">Website </a></li>
 <li><a href="http://www.youtube.com/user/MSMEAALMCommunity" target="_blank" rel="noopener">YouTube </a></li>
 <li><a href="https://twitter.com/MEAALMCommunity" target="_blank" rel="noopener">Twitter </a></li>
 <li><a href="https://www.facebook.com/MeaALMCommunity" target="_blank" rel="noopener">Facebook</a></li>
