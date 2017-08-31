@@ -1,11 +1,11 @@
 # The Visual Guide for Building Team Foundation Server 2012 Environments
 <div class="wikidoc">Welcome to "<strong>The Visual Guide for Building Team Foundation Server 2012 Environments", </strong>&nbsp;the first publication ever by&nbsp;<a title="MEA ALM Community" href="http://www.meaalmcommunity.com" target="_blank" rel="noopener"><strong>Middle East &amp; Africa ALM Community</strong></a>.</div>
 <p>&nbsp;</p>
-<div class="wikidoc"><strong><a title="MEA ALM Community" href="http://www.meaalmcommunity.com" target="_blank" rel="noopener">MEA ALM Community</a></strong> is an independent &amp; non -profit community, dedicated to supporting and educating Microsoft Application Lifecycle Management tools and technologies. The key mission of our community is to provide a strong and vibrant community for the different roles involved in software development and delivery to enable them build better software!</div>
+<div class="wikidoc"><strong><a title="MEA ALM Community" href="#" target="_blank" rel="noopener">MEA ALM Community</a></strong> is an independent &amp; non -profit community, dedicated to supporting and educating Microsoft Application Lifecycle Management tools and technologies. The key mission of our community is to provide a strong and vibrant community for the different roles involved in software development and delivery to enable them build better software!</div>
 <div class="wikidoc">
 <p>&nbsp;</p>
 </div>
-<div class="wikidoc"><strong>The Visual Guide for Building Team Foundation Server 2012 Environments</strong> is not only intended to walk you through the installation and the configuration process of Team Foundation Server 2012 but it is also written and designed to reflect real-world experience of the installation and configuration processes via detailed steps, well-defined &nbsp;screenshots and videos; and hence the name &ldquo;Visual Guide&rdquo;.&nbsp;It's a collaborative effort between industry experts and Microsoft&nbsp;partner (<a title="Marvel ALM" href="http://marvelalm.com/" target="_blank" rel="noopener">Marvel ALM</a>).</div>
+<div class="wikidoc"><strong>The Visual Guide for Building Team Foundation Server 2012 Environments</strong> is not only intended to walk you through the installation and the configuration process of Team Foundation Server 2012 but it is also written and designed to reflect real-world experience of the installation and configuration processes via detailed steps, well-defined &nbsp;screenshots and videos; and hence the name &ldquo;Visual Guide&rdquo;.&nbsp;It's a collaborative effort between industry experts and Microsoft&nbsp;partner (<a title="Marvel ALM" href="#" target="_blank" rel="noopener">Marvel ALM</a>).</div>
 <p>&nbsp;</p>
 <div class="wikidoc"><a title="Marvel ALM" href="http://marvelalm.com/" target="_blank" rel="noopener">Marvel ALM</a> one of the leading Microsoft ALM partners in the MEA (Middle East and&nbsp;Africa)</div>
 <div class="wikidoc"><a title="Marvel ALM" href="http://marvelalm.com/" target="_blank" rel="noopener"><img src="http://mohamedradwan.com/wp-content/uploads/2017/08/MSPartner-for-CodePlex-2.jpg" alt="Marvel ALM" width="552" height="160" /></a></div>
@@ -14,7 +14,7 @@
 <h3>Download the Guide</h3>
 Final release is available now! Start using the guide today, while we continue to further improve it.
 <ul>
-<li><a href="http://tfs2012visualguide.codeplex.com/downloads/get/482244" target="_blank" rel="noopener">Download The Visual Guide for Building Team Foundation Server 2012 Environments</a></li>
+<li><a href="https://github.com/DevOpsFounder/The-Visual-Guide-for-Building-Team-Foundation-Server-2012-Environments/blob/master/The%20Visual%20Guide%20for%20Building%20Team%20Foundation%20Server%202012%20Environments-V1.0.pdf" target="_blank" rel="noopener">Download The Visual Guide for Building Team Foundation Server 2012 Environments</a></li>
 </ul>
 <h3>Watch the Videos</h3>
 This Guide comes with 38 videos that explain all scenarios in a step-by-step manner.
@@ -105,7 +105,7 @@ This Guide comes with 38 videos that explain all scenarios in a step-by-step man
 </ul>
 <br /> <strong>Team</strong><br />
 <ul>
-<li><a title="M.Radwan Blog" href="http://mohamedradwan.wordpress.com/" target="_blank" rel="noopener">Mohamed Radwan</a>,&nbsp;<a title="Ayman El-Hattab" href="http://www.aymanelhattab.com">Ayman El-Hattab</a>&nbsp;and&nbsp;<a title="Hosam Kamel" href="http://blogs.msdn.com/b/hkamel/" target="_blank" rel="noopener">Hosam Kamel</a></li>
+<li><a title="M.Radwan Blog" href="http://mohamedradwan.com/" target="_blank" rel="noopener">Mohamed Radwan</a>,&nbsp;<a title="Ayman El-Hattab" href="http://www.aymanelhattab.com">Ayman El-Hattab</a>&nbsp;and&nbsp;<a title="Hosam Kamel" href="http://blogs.msdn.com/b/hkamel/" target="_blank" rel="noopener">Hosam Kamel</a></li>
 </ul>
 <h3>Feedback</h3>
 <ul>
@@ -113,7 +113,7 @@ This Guide comes with 38 videos that explain all scenarios in a step-by-step man
 </ul>
 <h3>MEA ALM Community</h3>
 <ul>
-<li><a href="http://www.meaalmcommunity.com/" target="_blank" rel="noopener">Website </a></li>
+<li><a href="#" target="_blank" rel="noopener">Website </a></li>
 <li><a href="http://www.youtube.com/user/MSMEAALMCommunity" target="_blank" rel="noopener">YouTube </a></li>
 <li><a href="https://twitter.com/MEAALMCommunity" target="_blank" rel="noopener">Twitter </a></li>
 <li><a href="https://www.facebook.com/MeaALMCommunity" target="_blank" rel="noopener">Facebook</a></li>
