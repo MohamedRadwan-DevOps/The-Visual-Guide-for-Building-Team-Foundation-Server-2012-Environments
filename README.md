@@ -1,7 +1,7 @@
 # The Visual Guide for Building Team Foundation Server 2012 Environments
 <div class="wikidoc">Welcome to "<strong>The Visual Guide for Building Team Foundation Server 2012 Environments", </strong>&nbsp;the first publication ever by&nbsp;<a title="MEA ALM Community" href="http://www.meaalmcommunity.com" target="_blank" rel="noopener"><strong>Middle East &amp; Africa ALM Community</strong></a>.</div>
 <p>&nbsp;</p>
-<div class="wikidoc"><strong><a title="MEA ALM Community" href="#" target="_blank" rel="noopener">MEA ALM Community</a></strong> is an independent &amp; non -profit community, dedicated to supporting and educating Microsoft Application Lifecycle Management tools and technologies. The key mission of our community is to provide a strong and vibrant community for the different roles involved in software development and delivery to enable them build better software!</div>
+<div class="wikidoc"><strong><a title="MEA ALM Community" href="" target="_blank" rel="noopener">MEA ALM Community</a></strong> is an independent &amp; non -profit community, dedicated to supporting and educating Microsoft Application Lifecycle Management tools and technologies. The key mission of our community is to provide a strong and vibrant community for the different roles involved in software development and delivery to enable them build better software!</div>
 <div class="wikidoc">
 <p>&nbsp;</p>
 </div>
