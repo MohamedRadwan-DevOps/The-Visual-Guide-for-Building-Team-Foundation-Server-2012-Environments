@@ -107,10 +107,6 @@ This Guide comes with 38 videos that explain all scenarios in a step-by-step man
 <ul>
 <li><a title="M.Radwan Blog" href="http://mohamedradwan.com/" target="_blank" rel="noopener">Mohamed Radwan</a>,&nbsp;<a title="Ayman El-Hattab" href="http://www.aymanelhattab.com">Ayman El-Hattab</a>&nbsp;and&nbsp;<a title="Hosam Kamel" href="http://blogs.msdn.com/b/hkamel/" target="_blank" rel="noopener">Hosam Kamel</a></li>
 </ul>
-<h3>Feedback</h3>
-<ul>
-<li>Please use the Discussions page to post your feedback and suggestions.</li>
-</ul>
 <h3 id="MEAALM">MEA ALM Community</h3>
 <ul>
 <li><a href="#MEAALM" target="_blank" rel="noopener">Website </a></li>
