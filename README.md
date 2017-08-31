@@ -7,8 +7,8 @@
 </div>
 <div class="wikidoc"><strong>The Visual Guide for Building Team Foundation Server 2012 Environments</strong> is not only intended to walk you through the installation and the configuration process of Team Foundation Server 2012 but it is also written and designed to reflect real-world experience of the installation and configuration processes via detailed steps, well-defined &nbsp;screenshots and videos; and hence the name &ldquo;Visual Guide&rdquo;.&nbsp;It's a collaborative effort between industry experts and Microsoft&nbsp;partner (<a title="Marvel ALM" href="#" target="_blank" rel="noopener">Marvel ALM</a>).</div>
 <p>&nbsp;</p>
-<div class="wikidoc"><a title="Marvel ALM" href="http://marvelalm.com/" target="_blank" rel="noopener">Marvel ALM</a> one of the leading Microsoft ALM partners in the MEA (Middle East and&nbsp;Africa)</div>
-<div class="wikidoc"><a title="Marvel ALM" href="http://marvelalm.com/" target="_blank" rel="noopener"><img src="http://mohamedradwan.com/wp-content/uploads/2017/08/MSPartner-for-CodePlex-2.jpg" alt="Marvel ALM" width="552" height="160" /></a></div>
+<div id="marvel" class="wikidoc"><a title="Marvel ALM" href="#marvel" target="_blank" rel="noopener">Marvel ALM</a> one of the leading Microsoft ALM partners in the MEA (Middle East and&nbsp;Africa)</div>
+<div class="wikidoc"><a title="Marvel ALM" href="#marvel" target="_blank" rel="noopener"><img src="http://mohamedradwan.com/wp-content/uploads/2017/08/MSPartner-for-CodePlex-2.jpg" alt="Marvel ALM" width="552" height="160" /></a></div>
 <div class="wikidoc"><br /> Authors : &nbsp;<em><a title="M.Radwan Blog" href="http://mohamedradwan.wordpress.com/" target="_blank" rel="noopener">Mohamed Radwan</a>,&nbsp;<a title="Ayman El-Hattab" href="http://www.aymanelhattab.com">Ayman El-Hattab</a> and <a title="Hosam Kamel" href="http://blogs.msdn.com/b/hkamel/" target="_blank" rel="noopener">Hosam Kamel</a></em><br /> <br /> <img title="TeamDevGuide.gif" src="http://mohamedradwan.com/wp-content/uploads/2017/08/cov-page.png" alt="TFS Guide" width="466" height="602" /></div>
 <div class="wikidoc">
 <h3>Download the Guide</h3>
